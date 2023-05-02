@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👑 About Me:
 🔭 I’m currently working on Software Developer With passion for Science and Human Behaviour<br>🌱 I’m currently learning html/CSS/JavaScript/Node JS/PHP/Laravel/Bootstrap/<br>👯 I’m looking to collaborate Software Development
 
 ## 🌐 Socials:
