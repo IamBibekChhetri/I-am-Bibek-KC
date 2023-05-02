@@ -1,5 +1,5 @@
 # 👑 About Me:
-🔭 I’m currently working on Software Developer With passion for Science and Human Behaviour<br>🎓 I’m currently learning html/CSS/JavaScript/Node JS/PHP/Laravel/Bootstrap/<br>💻 I’m looking to collaborate Software Development
+👨🏻‍⚕️ I’m currently working on Software Developer With passion for Science and Human Behaviour<br>🎓 I’m currently learning html/CSS/JavaScript/Node JS/PHP/Laravel/Bootstrap/<br>💻 I’m looking to collaborate Software Development
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chettri.viveek) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bibek7867) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bibek-chettri-84546b1a7) 
